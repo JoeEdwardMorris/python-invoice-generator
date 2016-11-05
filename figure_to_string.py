@@ -1,0 +1,20 @@
+# Hopefully possible to do more elegantly with key/dictionaries at a later date
+def figure_to_string (source_list, string_list) :
+    string_list[4]=str(source_list[0])
+    string_list[5]=str(source_list[1])
+    string_list[6]=str(source_list[2])
+    string_list[8]=str(source_list[3])
+    string_list[9]=str(source_list[4])
+    string_list[10]=str(source_list[5])
+    string_list[11]=str(source_list[6])
+    string_list[12]=str(source_list[7])
+    string_list[13]=str(source_list[8])
+    string_list[14]=str(source_list[9])
+    string_list[17]=str(source_list[10])
+    string_list[18]=str(source_list[11])
+    string_list[19]=str(source_list[12])
+    string_list[20]=str(source_list[13])
+    string_list[21]=str(source_list[14])
+    string_list[22]=str(source_list[15])
+    string_list[23]=str(source_list[16])
+    

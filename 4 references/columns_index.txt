@@ -1,0 +1,8 @@
+A 0 Invoice number	0
+B 1 Refresh number	1
+C 2 Invoice Month	FROM todays_month
+D 3 invoice Date	2
+E 4 Job title		3 
+F 5 Amount due		4
+G 6 VAT due		5
+H 7 Total Due		6
